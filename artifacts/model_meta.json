@@ -1,0 +1,13 @@
+{
+  "input_dim": 4678,
+  "num_classes": 6,
+  "label_map": {
+    "0": "Artificial Intelligence",
+    "1": "Data Science",
+    "2": "Development",
+    "3": "Security",
+    "4": "Software Development and Engineering",
+    "5": "User Experience (UX) and User Interface (UI) Design"
+  },
+  "best_val_acc": 0.9620098039215687
+}
