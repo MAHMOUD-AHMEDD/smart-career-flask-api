@@ -1,8 +1,14 @@
 flask==3.0.3
 gunicorn==22.0.0
+<<<<<<< HEAD
 streamlit==1.41.1
 torch==2.9.0
 numpy==2.2.4
+=======
+torch==2.2.0
+numpy==1.26.4
+scikit-learn==1.4.2
+>>>>>>> de017b6e041e191dc3f49d365bdbb9cb84038fb1
 joblib==1.4.2
 pandas==2.2.3
 scikit-learn==1.6.1
